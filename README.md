@@ -42,3 +42,8 @@ Feel free to fork this repository and submit pull requests for any improvements.
 
 ## License
 This project is open source and available for modification and distribution.
+
+## Video Demonstration
+A screen recording demonstrating the application's features and usage is included in this repository:
+- Screen Recording 2026-09-13 234542.mp4
+
